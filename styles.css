@@ -25,4 +25,5 @@ background-color: red;
 .holder{
     display: flex;
     flex-wrap: wrap;
+	 justify-content: space-between;
 }
