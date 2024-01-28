@@ -1,13 +1,9 @@
-
-/* Your CSS Code here. */
-
-
 .box{
     height: 100px;
     width: 100px;
     margin: 2px;
 }
-.wrap>.box{
+.holder>.box{
     width: 15%;
 }
 .green{
@@ -26,7 +22,7 @@ background-color: red;
     justify-content: space-between;
 }
 
-.wrap{
+.holder{
     display: flex;
     flex-wrap: wrap;
 }
